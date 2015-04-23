@@ -1,0 +1,9 @@
+node_modules
+.project
+data/*
+logs/*
+public/javascripts/*
+public/stylesheets/*
+npm-debug.log*
+sublime-gulp.log
+sftp-config.json
