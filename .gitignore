@@ -7,3 +7,6 @@ public/stylesheets/*
 npm-debug.log*
 sublime-gulp.log
 sftp-config.json
+dist/*
+.tmp
+
