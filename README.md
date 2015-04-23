@@ -1,5 +1,7 @@
 # noShake.js
 
+!!! This is a work in progress !!!
+
 * Summary: Testing content stabilization for web apps
 * Version: 1.0.0
 
