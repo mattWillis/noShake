@@ -25,7 +25,7 @@
   gulp.task('sass', function() {
     return gulp.src(buildPaths.srcSass + '/**/*.scss')
       .pipe($.sass())
-      .pipe(gulp.dest('.tmp/styles'))
+      // .pipe(gulp.dest('.tmp/styles'))
       .pipe(gulp.dest(buildPaths.distCss))
       .pipe(browserSync.reload({stream: true}));
   });
